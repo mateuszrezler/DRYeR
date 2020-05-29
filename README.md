@@ -14,4 +14,9 @@ daily questions)
       [Q24387975](https://stackoverflow.com/questions/24387975)  
       Accessing results of gregexpr
       [Q51875360](https://stackoverflow.com/questions/51875360)
+    * `3.R`:  
+      Selecting multiple odd or even columns/rows for dataframe
+      [Q24440258](https://stackoverflow.com/questions/24440258)  
+      R - do I need to add explicit new line character with print()?
+      [Q9317830](https://stackoverflow.com/questions/9317830)
 
