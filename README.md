@@ -1,4 +1,4 @@
-# SO-DRY
+# SO-DRYeR
 Stack Overflow - don't repeat yourself - a collection of the best answers to my
 daily questions - R edition
 
