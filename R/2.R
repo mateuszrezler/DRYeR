@@ -1,14 +1,14 @@
 seq <- "CGCGATATCGCGATATCGCG"
-print(paste("DNA sequence: ", seq))
+cat(paste("DNA sequence: ", seq, end = "\n"))
 
-print("Get indices of all character elements matches in string")
+cat("\nGet indices of all character elements matches in string\n")
 pos <- gregexpr("AT", seq)
 print(pos)
 
-print("Access indices")
+cat("Access indices\n")
 print(as.vector(pos[[1]]))
 
-print("Access lengths")
+cat("\nAccess lengths\n")
 lens <- attr(pos[[1]], "match.length")
 print(lens)
 
