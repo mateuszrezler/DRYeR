@@ -1,6 +1,6 @@
-# SO-DRYeR
-Stack Overflow - don't repeat yourself - a collection of the best answers to my
-daily questions - R edition
+# DRYeR
+Don't repeat yourself - a collection of the best answers to my daily questions
+on Stack Overflow - R edition
 
 ## Table of contents
 * `1.R`:  
