@@ -1,5 +1,5 @@
 cat("Read a FASTA file and show it\n")
-df <- read.table("../FASTA_sample.fa")
+df <- read.table("../data/FASTA_sample.fa")
 print(df)
 
 cat("\nSelect rows with even indices only\n")
