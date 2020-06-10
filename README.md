@@ -2,6 +2,9 @@
 Don't repeat yourself - a collection of the best answers to my daily questions
 on Stack Overflow - R edition
 
+## Testing
+Please visit `tests` branch to test all examples locally or online.
+
 ## Table of contents
 * `1.R`:  
   How do I import a CSV file in R?
